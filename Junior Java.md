@@ -1,4 +1,4 @@
-#Junior Java Code Challange
+#Junior Java Code Challenge
 
 ###Frameworks/Libraries to be used
   * Spring Boot
