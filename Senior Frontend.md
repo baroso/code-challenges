@@ -48,6 +48,6 @@ It should containe the following pages
 
 ####The application requirements
     - Should be tested using Jasmine and Karma.
-	  - Should be written preferably using Typescript
-	  - Should use LESS instead of CSS and the project should be configured using Grunt or Gulp to generate CSS code on the fly
-	  - Code structure/readability is very important
+    - Should be written preferably using Typescript
+    - Should use LESS instead of CSS and the project should be configured using Grunt or Gulp to generate CSS code on the fly
+    - Code structure/readability is very important
