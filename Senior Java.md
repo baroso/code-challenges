@@ -40,12 +40,12 @@ Please create two projects, one will be used as a client and the other as a serv
     - Hotel rooms types (single-room, double-room)
 
 ####The hotel room types must have the following definitions
-    * Hotel Id
-    * Hotel room type
-    * Hotel room price per day
+    - Hotel Id
+    - Hotel room type
+    - Hotel room price per day
 
 ####The hotel reservation must have the following definitions
-    * Hotel Id
-    * Hotel room type
-    * Reservation Start and End Date
-    * Reservation price calculated by date of reservation
+    - Hotel Id
+    - Hotel room type
+    - Reservation Start and End Date
+    - Reservation price calculated by date of reservation
