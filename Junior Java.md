@@ -8,7 +8,7 @@
   * MySQL
 
 >Please create a project that will manage hotel reservations.
-It should be fully RESTfull API (NO User Interface needed)
+It should be fully RESTfull API *(NO User Interface needed)*
 
 ####The hotels must have the following definitions
 
