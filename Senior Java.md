@@ -7,6 +7,7 @@
   * Spring Security
   * Spring Security OAuth
   * Spring AMQP
+  * Spring Test
   * OAuth2 and JWT
   * Java 8 (Streams API)
   * MySQL
@@ -27,6 +28,7 @@ Please create two projects, one will be used as a client and the other as a serv
     - The project should use Spring Security OAuth2 provider to secure the REST endpoints
     - The project should use Redis for caching hotels API
     - The project should use Java 8 API as much as possible (Lambda Expressions, Streams, Optionals, Date Time)
+    - Write unit/integration tests for this project
 
 ####Client Project:
     - Will be a fully RESTfull API which will make requests to the second Service Project to make hotel reservations
