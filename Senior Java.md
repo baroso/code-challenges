@@ -1,4 +1,4 @@
-#Senior Java Code Challange
+#Senior Java Code Challenge
 
 ###Frameworks/Libraries to be used
   * Spring Boot
