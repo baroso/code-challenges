@@ -1,1 +1,1 @@
-#Front-End Junior Challenge
+#Front-End Junior Code Challenge
