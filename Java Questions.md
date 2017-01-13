@@ -9,3 +9,4 @@
     - Can you declare an interface method static? (should answer: No, because methods of an interface is abstract by default, and static and abstract keywords can't be used together.)
     - What are wrapper classes? (should answer: Wrapper classes are classes that allow primitive types to be accessed as objects.)
     - What is singleton class? (should answer: Singleton class means that any given time only one instance of the class is present, in one JVM.)
+    - What design patterns do you know? (should answer at least: Singleton, Prototype, Builder, Decorator, Factory, Observer)
