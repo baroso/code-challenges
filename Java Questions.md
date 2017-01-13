@@ -10,3 +10,9 @@
     - What are wrapper classes? (should answer: Wrapper classes are classes that allow primitive types to be accessed as objects.)
     - What is singleton class? (should answer: Singleton class means that any given time only one instance of the class is present, in one JVM.)
     - What design patterns do you know? (should answer at least: Singleton, Prototype, Builder, Decorator, Factory, Observer)
+
+####Spring Questions
+    - Which spring framework modules do you know? (should answer at least: Spring Boot, Spring MVC, Spring Data JPA)
+    - What spring module to use to insert rows to MySQL Database (should answer: Spring Data JPA)
+    - What spring module to use to send a message to RabbitMQ (should answer: Spring AMQP)
+    - What is the difference between annotations @Controller and @RestController (should answer: The key difference between a traditional @Controller and the @RestController is the way the HTTP response body is created.)
