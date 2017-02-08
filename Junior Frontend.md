@@ -1,7 +1,7 @@
 #Junior Frontend Code Challenge
 
 ###Frameworks/Libraries to be used
-  * Angular JS
+  * Angular JS 2
   * Grunt or Gulp
   * Bower
   * Javascript
