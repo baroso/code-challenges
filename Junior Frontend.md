@@ -1,23 +1,23 @@
-#Junior Frontend Code Challenge
+# Junior Frontend Code Challenge
 
-###Frameworks/Libraries to be used
-  * Angular JS 2
-  * Grunt or Gulp
+### Frameworks/Libraries to be used
+  * Angular v4.0
+  * Gulp
   * Bower
-  * Javascript
+  * JavaScript
   * Lodash
   * Twitter Bootstrap
 
 >Please create a project that will manage hotel reservations.
-It should containe the following pages
+It should contain the following pages.
 
-####The main page
+#### The main page
 
     - Show the menu
     - Show the application banner
-    - Show the hotel search form with availability, location etc... something like booking.com
+    - Show the hotel search form with availability, location etc. (something like booking.com)
 
-####The hotels page
+#### The hotels page
 
     - List the existing hotels
     - Create/Update/Delete hotels
@@ -25,11 +25,11 @@ It should containe the following pages
     - Delete of hotels functionality should ask for confirmation
     - The REST API calls should be emulated with a JSON file
 
-####The hotel details page
+#### The hotel details page
 
-    - Show the selected hotel details, all its facilities
+    - Show the selected hotel details and all its facilities
     - Reserve button
 
-####The user reservations page
+#### The user reservations page
 
     - Show the user reserved hotels and its details
