@@ -9,12 +9,15 @@
   * Twitter Bootstrap
 
 >Please create a project that will manage hotel reservations.
-It should contain the following pages.
+>It should contain the following pages.
+
+>No need to setup a database or other software infrastructure.
+>Just write the functional code and use JSON for data.
 
 #### The main page
 
     - Show the menu
-    - Show the application banner
+    - Show the application banner/logo
     - Show the hotel search form with availability, location etc. (something like booking.com)
 
 #### The hotels page
@@ -22,12 +25,12 @@ It should contain the following pages.
     - List the existing hotels
     - Create/Update/Delete hotels
     - Search hotels
-    - Delete of hotels functionality should ask for confirmation
+    - The functionality to Delete hotels should ask for confirmation
     - The REST API calls should be emulated with a JSON file
 
 #### The hotel details page
 
-    - Show the selected hotel details and all its facilities
+    - Show the details of the selected hotel and all its facilities
     - Reserve button
 
 #### The user reservations page
