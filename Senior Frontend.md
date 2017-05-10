@@ -47,7 +47,7 @@
     - Create/Update/Delete hotels
     - Create/Update/Delete hotel rooms (price, room type: Single, Double)
     - List existing hotels
-    - Allow to display the hotel status (with the details of how many rooms the hotel has and how many are reserved/available)
+    - Allow to display the hotel status (details of how many rooms the hotel has and how many are reserved/available)
     
 #### The application requirements
     - Should be tested using Jasmine and Karma.
