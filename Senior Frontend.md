@@ -1,53 +1,56 @@
-#Senior Frontend Code Challenge
+# Senior Frontend Code Challenge
 
-###Frameworks/Libraries to be used
-  * Angular JS 2
-  * Grunt or Gulp
+### Frameworks/Libraries to be used
+  * Angular v4.0
+  * Gulp
   * Bower
   * Yeoman
-  * Javascript/Typescript
+  * JavaScript/TypeScript
   * Lodash
   * Twitter Bootstrap
-  * NodeJS npm
+  * Node.js + npm
   * LESS
   * Jasmine
   * Karma
 
 >Please create a project that will manage hotel reservations.
-It should containe the following pages
+>It should contain the following pages.
 
-####The main page
+>No need to setup a database or other software infrastructure.
+>Just write the functional code and use JSON for data.
+
+#### The main page
 
     - Show the menu
-    - Show the application banner
-    - Show the hotel search form with availability, location etc... something like booking.com
+    - Show the application banner/logo
+    - Show the hotel search form with availability, location etc. (something like booking.com)
 
-####The hotels page
+#### The hotels page
 
     - List the existing hotels
     - Create/Update/Delete hotels
     - Search hotels
-    - Delete of hotels functionality should ask for confirmation
+    - The functionality to Delete hotels should ask for confirmation
     - The REST API calls should be emulated with a JSON file
 
-####The hotel details page
+#### The hotel details page
 
-    - Show the selected hotel details, all its facilities
+    - Show the details of the selected hotel and all its facilities
     - Reserve button
 
-####The user reservations page
+#### The user reservations page
 
     - Show the user reserved hotels and its details
 
-####The admin page
+#### The admin page
 
-    - Allow to create new hotels
+    - Create/Update/Delete hotels
+    - Create/Update/Delete hotel rooms (price, room type: Single, Double)
     - List existing hotels
-    - Allow to display hotel status (details of how many rooms the hotel has, how many are reserved/available)
-    - Allow to define hotel rooms (room type: Single, Double, its price, the amount of them)
-
-####The application requirements
+    - Allow to display the hotel status (with the details of how many rooms the hotel has and how many are reserved/available)
+    
+#### The application requirements
     - Should be tested using Jasmine and Karma.
     - Should be written preferably using Typescript
-    - Should use LESS instead of CSS and the project should be configured using Grunt or Gulp to generate CSS code on the fly
+    - Should use LESS instead of CSS and the project should be configured using Gulp to generate CSS code on the fly
     - Code structure/readability is very important
