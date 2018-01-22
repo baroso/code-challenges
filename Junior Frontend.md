@@ -7,7 +7,6 @@
   * Bower
   * TypeScript
   * Lodash
-  * Twitter Bootstrap
 
 >Please create a project that will manage hotel reservations.
 >It should contain the following pages.
