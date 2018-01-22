@@ -1,15 +1,15 @@
 # Senior Frontend Code Challenge
 
 ### Frameworks/Libraries to be used
-  * Angular v4.0
+  * Angular (latest Version)
+  * Angular Material (latest Version)
   * Gulp
   * Bower
   * Yeoman
-  * JavaScript/TypeScript
+  * TypeScript
   * Lodash
-  * Twitter Bootstrap
   * Node.js + npm
-  * LESS
+  * SASS
   * Jasmine
   * Karma
 
@@ -18,6 +18,8 @@
 
 >No need to setup a database or other software infrastructure.
 >Just write the functional code and use JSON for data.
+
+>You are free to design your app the way you like, let your creativity flow.
 
 #### The main page
 
